@@ -384,7 +384,7 @@ a{ color: inherit; text-decoration:none; }
   object-fit: cover;
 }
 @media (max-width: 900px){
-  .shopBanner{ height: 240px; }
+  .shopBanner{ height: 440px; }
 }
 
 /* 图片式快捷入口按钮（位于价格单区域下方） */
